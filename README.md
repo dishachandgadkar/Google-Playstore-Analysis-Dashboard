@@ -18,7 +18,7 @@ Developed an interactive Power BI dashboard to analyze Google Play Store applica
 - Excel / CSV Dataset
   
 ## Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](Google%20playstore%20Analysis%20Dashboard.jpg)
 
 ## 📈 Insights
 - Compared paid and free application performance
